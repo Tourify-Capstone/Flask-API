@@ -4,7 +4,7 @@ We build API endpoints to provide services for users, connected with AI models s
 
 ## Team Members
 
-Feel free to reach out to our team members for any inquiries or collaboration opportunities. Happy traveling with Tourify!
+Feel free to reach out to our team members for any inquiries or collaboration opportunities.
 
 | Bangkit ID | Name | Learning Path | University | Linkedin |
 | ----- | ----- | ----- | ----- | ----- |
