@@ -1,6 +1,6 @@
 # Cloud Computing
 
-We build API endpoints to provide services for users, connected with AI models stored in the Cloud to provide AI services. Performed backend and database deployment using Google Cloud Platform (GCP). Documented in detail the use of the API, provided developer documentation, and conducted tests to ensure the availability and stability of the service of Tourify App.
+We build API endpoints to provide services for users, connected with AI models stored in the Cloud to provide AI services. Performed backend and database deployment using Google Cloud Platform (GCP). Documented in detail the use of the API, provided developer documentation, and conducted tests to ensure the availability and stability from the service of Tourify App.
 
 ## Team Members
 
@@ -28,9 +28,9 @@ Below are some of the tools used in this project.
 ## Installation
 1. Clone this repository
 
-2. Build mysql database server and import 'tourify-db.sql'
+2. Build mysql database server and import `tourify-db.sql`
 
-3. Edit [HOSTNAME], [USERNAME], [PASSWORD], [EMAIL], and [PASS_KEY] from  app.py file
+3. Edit [HOSTNAME], [USERNAME], [PASSWORD], [EMAIL], and [PASS_KEY] from  `app.py` file
 
 4. Run this command at your terminal
 
